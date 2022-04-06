@@ -1,0 +1,346 @@
+body {
+  font-family: "Encode Sans", sans-serif;
+}
+
+.cabecalho {
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 22px;
+}
+.bordas {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e5e5e5 white;
+  height: 45px;
+}
+a {
+  text-decoration: none;
+}
+.topicos {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: space-between;
+  align-items: center;
+  width: 1250px;
+  margin-bottom: 36px;
+  height: 45px;
+}
+.g1 {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #c3170c;
+  text-decoration: none;
+}
+.o-globo {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #1e4b9b;
+  text-decoration: none;
+}
+.valor {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #006766;
+  text-decoration: none;
+}
+.ge {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #07aa47;
+  text-decoration: none;
+}
+.cartola {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #e3662b;
+  text-decoration: none;
+}
+.globoplay {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #fb0735;
+  text-decoration: none;
+}
+.dropz {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #ff75bb;
+  text-decoration: none;
+}
+.gshow {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #ec7d00;
+  text-decoration: none;
+}
+.quem {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #323333;
+  text-decoration: none;
+}
+.receitas {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #a81d83;
+  text-decoration: none;
+}
+.conteudo-principal {
+  display: flex;
+  width: 1250px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 36px;
+  margin-bottom: 0px;
+}
+.parte-principal-1 {
+  width: 663px;
+  border: solid;
+  border-width: 1px;
+  border-color: white #e5e5e5 white white;
+  padding-bottom: 25px;
+}
+.conteudo-um {
+  width: 624px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white white #e5e5e5 white;
+}
+.conteudo-dois {
+  display: flex;
+  justify-content: space-between;
+  width: 624px;
+  height: 338px;
+  border: solid;
+  border-color: white white #e5e5e5 white;
+  border-width: 1px;
+}
+.conteudo-um-titulo {
+  color: #c4160c;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 67px;
+}
+.conteudo-um-subtitulo {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: #303134;
+}
+.paragrafo1 {
+  text-decoration: none;
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: -0.01em;
+  color: #303134;
+  margin-bottom: 10px;
+}
+.paragrafo2 {
+  text-decoration: none;
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: -0.01em;
+  color: #303134;
+}
+.imagem {
+  width: 193px;
+  height: 110px;
+  border-radius: 12px;
+  margin-top: 25px;
+}
+.rodape {
+  color: #c4170c;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.conteudo-dois-titulo {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  color: #2f3134;
+  width: 192px;
+  height: 84px;
+  left: 154px;
+  top: 644px;
+}
+.conteudo-dois-subtitulo {
+  width: 174px;
+  height: 42.5px;
+  left: 154px;
+  top: 732.5px;
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+
+  /* or 136% */
+
+  letter-spacing: -0.048em;
+  color: #2f3134;
+}
+.presidente {
+  margin-right: 24px;
+}
+.crimes {
+  margin-right: 24px;
+}
+.conteudo-tres {
+  display: flex;
+  justify-content: space-between;
+  width: 624px;
+  padding-top: 15px;
+}
+.parte-principal-dois {
+  width: 310px;
+  height: 845px;
+  border: solid;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white #e5e5e5 white white;
+}
+.conteudo-1 {
+  margin-left: 35px;
+  width: 240px;
+}
+.imagem2 {
+  width: 240px;
+  height: 128px;
+  left: 853px;
+  top: 162px;
+  border-radius: 12px;
+}
+.rodape2 {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  color: #16ae54;
+  margin-top: 11px;
+}
+.titulo2 {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: -0.045em;
+  color: #2f3134;
+  margin-top: 6px;
+}
+.subtitulo2 {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: -0.048em;
+  color: #2f3134;
+  margin-top: 15px;
+}
+.conteudo-2 {
+  margin-left: 35px;
+  width: 240px;
+  margin-top: 42px;
+}
+.rodape3 {
+  font-family: "Encode Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  color: #ec8006;
+}
